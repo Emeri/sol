@@ -24,7 +24,7 @@ namespace ClassLibrary2
                     ((DateTime.Today.Month == this._geboorteDatum.Month) && (DateTime.Today.Day >= this._geboorteDatum.Day)))
             {
                 leeftijd++;
-                // comment
+                // comment  ss
             }
 
             return leeftijd;
